@@ -172,7 +172,6 @@ Base de dados db_ce
 
 Tabelas:
 
-|-------------------------|
 | Tables_in_db_ce         |
 |-------------------------|
 | info_corridas_do_dia    |
