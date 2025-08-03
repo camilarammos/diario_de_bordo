@@ -112,7 +112,7 @@ Você verá logs de execução e amostra dos dados.
 Ainda dentro do contêiner:
 
 ```bash
-pytest tests/ -v
+python -m pytest tests/ -v
 ```
 ---
 
@@ -172,14 +172,12 @@ Base de dados db_ce
 
 Tabelas:
 
-+-------------------------+
+|-------------------------|
 | Tables_in_db_ce         |
-+-------------------------+
+|-------------------------|
 | info_corridas_do_dia    |
 | raw_info_transportes    |
 | silver_info_transportes |
-+-------------------------+
-
 
 ### Amostra de dados
 
